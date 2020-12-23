@@ -83,7 +83,7 @@ fes2 build --env $env
 
 ### 构建发布
 
-dev分支push代码会自动发布到开发环境 http://test-dqm.weoa.com/dqm-ui-dev/
+dev分支push代码会自动发布到开发环境 http://test-dqm.webank.com/dqm-ui-dev/
 以下本地命令需全局安装fes-jenkins，不同环境自动发布命令：
 
 ```
