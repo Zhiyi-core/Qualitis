@@ -9,8 +9,8 @@ export default {
     env: {
         // 本地开发环境 fes dev默认使用local环境
         local: {
-            // api: 'http://172.21.3.173:8090/qualitis'     //行内
-            api: 'http://10.107.118.150:8090/qualitis'    //开源
+            // api: 'http://127.0.0.1:8090/qualitis'     //行内
+            api: 'http://127.0.0.1:8090/qualitis'    //开源
 
         },
         // 开发环境机器
